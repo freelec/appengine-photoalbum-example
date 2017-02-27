@@ -10,5 +10,5 @@ handlers:
   login: required
 
 env_variables:
-  LANG_TAG: 'it'
-  TIMESTAMP_TZ: 'Europe/Rome'
+  LANG_TAG: 'ja'
+  TIMESTAMP_TZ: 'Asia/Tokyo'
